@@ -14,4 +14,9 @@ The `Track_Combo.csv` dataset includes pitch tracking data from 21 college baseb
 ### Course Information
 Final project for MATH-475, Statistical Machine Learning, under Professor Soheyl Anbouhi
 
+
+## Running the plot cell
+This cell will take a while as it has to manually create and graph 1500 plots.
+Will probably take about 2-3 minutes. The create images from 
+the execution of this cell will be used for the classification. s
 ---
