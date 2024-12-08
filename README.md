@@ -16,7 +16,7 @@ Final project for MATH-475, Statistical Machine Learning, under Professor Soheyl
 
 
 ## Running the plot cell
-This cell will take a while as it has to manually create and graph 1500 plots.
-Will probably take about 2-3 minutes. The create images from 
+This cell will take a while as it has to manually create and graph 2200 plots.
+Will probably take about 5 minutes. The create images from 
 the execution of this cell will be used for the classification. s
 ---
